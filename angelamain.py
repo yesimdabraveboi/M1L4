@@ -27,4 +27,4 @@ async def on_message(message):
     elif message.content.startswith('ANGELA!'):
         await message.channel.send('Manager, you do not need to yell for I am right next to you.')
 
-client.run("MTIxMzQ3MDc0NTYzMjcxMDcwNg.GNStiN.034KCHY8fl3C6M6LpoFkR7cKu3dWaZWcLETkKI")
+client.run("TOKEN")
